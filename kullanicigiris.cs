@@ -29,5 +29,10 @@ namespace doviz_ofisi
                 MessageBox.Show("parola ya da kullanici adi hatali ");
             }
         }
+
+        private void kullanicigiris_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
